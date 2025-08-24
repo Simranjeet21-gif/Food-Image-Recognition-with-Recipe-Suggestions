@@ -8,6 +8,5 @@ It can identify different types of food 🍕🍔🍝🥚 from images.
 ✅ Tested through a simple Python script 🐍
 <br>
 ✅ Integrated with a Tkinter GUI 🖥️
-<br>
-✅ Deployed using Streamlit Web App 🌐
+
 
