@@ -10,4 +10,4 @@ It can identify different types of food 🍕🍔🍝🥚 from images.
 ✅ Integrated with a Tkinter GUI 🖥️
 <br>
 ✅ Deployed using Streamlit Web App 🌐
-💡 Future scope includes recipe suggestions 📖 and nutrition analysis 🥗 to make the system more useful in real-world applications.
+
